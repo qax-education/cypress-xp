@@ -1,0 +1,46 @@
+{
+    "create": {
+        "name": "Orfanato Esperança Não Mexer",
+        "description": "O Orfanato Esperança é um local acolhedor que oferece cuidados e educação para crianças em situação de vulnerabilidade. Nossa missão é proporcionar um ambiente seguro e amoroso para as crianças que precisam.",
+        "opening_hours": "Segunda a sexta, das 8h às 18h",
+        "open_on_weekends": false,
+        "position": {
+            "latitude": -23.594073,
+            "longitude": -46.682376
+        },
+        "image": "kids-playground-1.png"
+    },
+    "duplicate": {
+        "name": "Casa das Crianças Felizes",
+        "description": "A Casa das Crianças Felizes é um lugar onde as crianças podem brincar, aprender e crescer. Estamos comprometidos em fornecer apoio integral para as crianças órfãs, ajudando-as a construir um futuro melhor.",
+        "opening_hours": "Terça a sábado, das 9h às 17h",
+        "open_on_weekends": true,
+        "position": {
+            "latitude": -23.596450940802633,
+            "longitude": -46.68912934156518
+        },
+        "image": "kids-playground-5.png"
+    },
+    "map": {
+        "name": "Instituto Raio de Sol",
+        "description": "O Instituto Raio de Sol é uma instituição dedicada a dar amor e cuidados a crianças desamparadas. Nossa equipe está empenhada em criar um ambiente acolhedor e estimulante para o desenvolvimento das crianças.",
+        "opening_hours": "Segunda a sexta, das 7h30 às 17h30",
+        "open_on_weekends": true,
+        "position": {
+            "latitude": -23.595570790677137,
+            "longitude": -46.68488860130311
+        },
+        "image": "kids-playground-7.png"
+    },
+    "required": {
+        "name": "Lar da Alegria Infantil",
+        "description": "O Lar da Alegria Infantil é uma instituição dedicada a dar amor e cuidados a crianças desamparadas. Nossa equipe está empenhada em criar um ambiente acolhedor e estimulante para o desenvolvimento das crianças.",
+        "opening_hours": "Segunda a sexta, das 7h30 às 17h30",
+        "open_on_weekends": false,
+        "position": {
+            "latitude": -23.598461319055616,
+            "longitude": -46.67988896369935
+        },
+        "image": "kids-playground-7.png"
+    }
+}

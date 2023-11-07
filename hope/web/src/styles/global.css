@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #fff;
+  background: #ebf2f5;
+}
+
+body, input, button, textarea {
+  font: 600 18px Nunito, sans-serif;
+}
+
+
+.swal2-container .swal2-confirm {
+  border: 0px;
+  border-radius: 1em;
+  background: #ffdd57;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 1em;
+}
+
+.swal2-container .swal2-confirm:focus {
+  box-shadow: rgba(255, 214, 102, 0.5) 0px 0px 0px 3px;
+}
